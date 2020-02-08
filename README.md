@@ -7,6 +7,6 @@ O método calcula está no pai e as s classes filhas só implementarão os burac
 Define o esqueleto de um algoritmo numa operação, deixando que subclasses completem algumas das etapas
 O padrão Template Method permite que subclasses redefinem determinadas etapas de um algoritmo sem alterar a estrutura do algoritmo
 
-Curiosidade : este padrão é a base para ciração de frameworks
+Curiosidade : este padrão é a base para criação de frameworks
 
 
